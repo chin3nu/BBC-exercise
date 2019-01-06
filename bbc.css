@@ -1,0 +1,225 @@
+body {
+margin:0;
+font-family: Helvetica,Arial,freesans,sans-serif;
+text-align: justify;
+}
+#topbar {
+    padding-top:15px;
+    background-color:white;
+    width:100%;
+    height:3px;
+    margin: auto;
+    color:black;
+    font-weight: bold;
+    font-size: .85em;
+}
+.fixedwidth {
+    width:1050px;
+    margin:0 auto;
+}
+#bbclogo
+{
+    padding-top:5px;
+    margin-left:32px;
+    padding-right: 5px;
+    border-right: 1px solid rgb(224, 212, 212);
+    float: left;
+    padding-bottom: 5px;
+}
+.decor {
+    text-decoration: none;
+    color:black;
+    
+}
+.decor1 {
+    text-decoration: none;
+    color:white;
+}
+.signin {
+    
+    padding:4px;  
+    border-right: 1px solid rgb(224, 212, 212);
+    float:left;
+    padding-right: 80px;
+    padding-top:3px;
+    padding-bottom: 12px;
+    
+
+}
+.signin img {
+    position: relative;
+    top:5px;
+    padding-left: 8px;
+
+}
+.signin:hover {
+    border-bottom:4px solid rgb(16, 124, 143); 
+}
+ .link1:hover {
+border-bottom:4px solid #880a0a;
+ }  
+ .link2:hover {
+     border-bottom:4px solid rgb(245, 245, 113);
+ }
+ .link3:hover {
+    border-bottom:4px solid red;
+}
+.link4:hover {
+    border-bottom:4px solid black;
+}
+.link5:hover {
+    border-bottom:4px solid white;
+}
+.link6:hover{
+    background-color:black;
+    color:white;
+}
+.topbarmenu {
+    float:left;
+}
+.topbarmenu li {
+    border-right: 1px solid rgb(224, 212, 212);
+    list-style-type: none;
+    display: inline;
+    padding:4px;    
+    padding-top:12px;
+    padding-right:20px;
+    padding-left: 10px;
+    padding-bottom: 12px;
+    
+    
+    
+}
+.topbarmenu ul {
+    padding:0;
+    float: left;
+    
+}
+#search {
+    padding:10px;
+    float:left;
+}
+#search input {
+    height:20px;
+    padding: 0;
+    width:125%;
+    font-weight: bold;
+    font-size: .9em;
+    background-color: rgb(230, 227, 227);
+    background-image: url("/Users/apple/Desktop/Mashupstack/images/searchkey.png");
+    background-repeat: no-repeat;
+    background-position: right center;
+}
+.newsbar {
+    background-color:#c50d0d;
+    width:100%;
+    height:70px;
+    color:white;
+    
+}
+
+#newsheader {
+    font-size:2.5em;
+    margin-left: 150px;
+    padding-top:10px;
+    letter-spacing:inherit;
+    font-family:Helvetica,Arial,freesans,sans-serif;
+}
+.menubar {
+    background-color: brown;
+    width:100%;
+    height:35px;
+    float:left;
+    
+}
+.menubar ul {
+float:left;
+padding:0;
+text-align: center;
+border: #c50d0d;
+margin-left:130px;
+
+
+}
+.menubar li {
+    border-right: 1px solid rgb(224, 212, 212);
+    list-style: none;
+    display: inline;   
+    padding-top:5px;
+    padding-right:5px;
+    padding-left: 10px;
+    font-size: .9em;
+    color:white;
+    margin:0;
+
+}
+.mainmenu {
+    float:left;
+}
+.mainmenu li {
+    border-right: 1px solid rgb(224, 212, 212);
+    list-style: none;
+    display: inline;
+    padding:4px;    
+    padding-top:12px;
+    padding-right:10px;
+    padding-left: 10px;
+    font-size: .9em;    
+    
+    
+}
+.mainmenu ul {
+    padding:0;
+    float: left;
+    margin-left:130px;
+    
+    
+}
+.mainmenu .fontsize:hover {
+    font-size: 1.25em;
+    border-bottom: 4px solid brown;
+    
+}
+.headline{
+    width:95%;
+    
+}
+.maincolumn {
+    float:left;
+    margin-left:130px;  
+    word-spacing:0px;
+}
+.maincolumn p{
+font-size: 15px;
+margin: auto;
+
+}
+.leftcolumn {
+    float:right;
+    width:120px;
+    padding-left:90px;
+    margin-left:120px;
+    margin-top:-90px;
+    text-align: left;
+    border:solid white 1px;
+    background:rgb(230, 229, 229);
+    padding-bottom:25px;
+    padding-right:70px; 
+    margin-right:20px;
+    
+}
+.newsdetails {
+    font-size:15px;
+    float: left;
+    margin: auto;
+    width:60%;
+    text-align:left;
+    
+}
+.fa li{
+    list-style:none;
+    font-size: 15px;
+    display: inline;
+}
+
+
